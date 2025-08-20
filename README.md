@@ -1,4 +1,4 @@
-# Crypto Exchange Simulator
+# Crypt-Exchange
 
 A simple cryptocurrency exchange simulator built with Python and Streamlit.  
 Designed for learning and prototyping crypto trading features.
@@ -42,5 +42,5 @@ Partha sarathi rout
 
 Sameer raj panda
 
-Roumya Ranjan Swain
+
 
