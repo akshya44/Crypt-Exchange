@@ -36,11 +36,7 @@ Designed for learning and prototyping crypto trading features.
 This is a simulation app for educational purposes only. Do not use real funds or sensitive info.
 ---
 ## Developer
-Akshya kumar sahoo
-
-Partha sarathi rout
-
-Sameer raj panda
+Akshya kumar Sahoo
 
 
 
